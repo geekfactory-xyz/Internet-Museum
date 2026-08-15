@@ -69,7 +69,7 @@ const translations = {
     established: 'Établi vers',
     context: 'Contexte Historique',
     archivist: 'Archiviste',
-    board: 'Musée de l\'internet par Émile Gagnon, GEEK FACTORY',
+    board: 'Internet Museum par Émile Gagnon, GEEK FACTORY',
     id: 'ID de l\'Objet',
     return: 'Retour à l\'Aile',
     select: 'Sélectionnez une Aile pour Commencer',
@@ -82,7 +82,7 @@ const translations = {
     contactInfo: 'Contact : internetmuseum@geek-factory.xyz',
     copyrightNotice: 'Pour toute demande de retrait liée aux droits d\'auteur, veuillez contacter : copyrights@geek-factory.xyz',
     buyCoffee: 'Offrir un café à Émile',
-    welcomeTitle: 'Le Musée de l\'Internet',
+    welcomeTitle: 'Internet Museum',
     welcomeSubtitle: 'Un Voyage à travers l\'Éther Numérique',
     welcomeBody: 'Ces archives ont été établies pour préserver les artefacts éphémères du premier web—une époque où la frontière numérique était sauvage, expérimentale et brute. Du premier signal à l\'émergence des réseaux sociaux mondiaux, nous documentons les fantômes des réseaux qui ont construit notre monde moderne.',
     enterMuseum: 'Entrer dans l\'Archive'
