@@ -1,5 +1,5 @@
 import React from 'react';
-import { Languages } from 'lucide-react';
+import { Languages, Coffee } from 'lucide-react';
 import { useLanguage } from '../../App';
 
 export const MuseumFooter: React.FC = () => {
@@ -28,6 +28,17 @@ export const MuseumFooter: React.FC = () => {
           </div>
 
           <div className="flex items-center gap-6 pointer-events-auto">
+            <a 
+              href="https://buymeacoffee.com/emileg"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex items-center gap-3 px-6 py-2 bg-black/40 backdrop-blur border border-stone-700 text-stone-300 hover:text-white transition-all hover:bg-black/60"
+            >
+              <Coffee size={14} className="text-amber-500 group-hover:rotate-12 transition-transform" />
+              <span className="text-[10px] font-bold uppercase tracking-[0.2em]">
+                {t('buyCoffee')}
+              </span>
+            </a>
             <button 
               onClick={() => setLanguage(language === 'en' ? 'fr' : 'en')}
               className="group flex items-center gap-3 px-6 py-2 bg-black/40 backdrop-blur border border-stone-700 text-stone-300 hover:text-white transition-all hover:bg-black/60"
