@@ -29,8 +29,8 @@ export const MuseumFooter: React.FC = () => {
 
           <div className="flex items-center gap-6 pointer-events-auto">
             <a 
-              href="https://buymeacoffee.com/emileg"
-              target="_blank"
+              href="https://buymeacoffee.com/emileg" 
+              target="_blank" 
               rel="noopener noreferrer"
               className="group flex items-center gap-3 px-6 py-2 bg-black/40 backdrop-blur border border-stone-700 text-stone-300 hover:text-white transition-all hover:bg-black/60"
             >
