@@ -1,4 +1,4 @@
-# Apche-2.0 License
+# License
 
 Copyright 2026 Émile Gagnon
 
